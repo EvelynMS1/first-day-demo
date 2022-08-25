@@ -1,2 +1,4 @@
 # first-day-demo
-Creating new demo
+** Creating a file within a repository that has been created, writing markdown html**
+I want to commit changes using git commands 
+I want to comm
